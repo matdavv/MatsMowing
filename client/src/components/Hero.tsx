@@ -30,7 +30,7 @@ export function Hero() {
           </p>
           <p className="text-lg md:text-xl text-gray-200 max-w-2xl mx-auto mb-8">
             Your local expert for lawn mowing, garden maintenance, and property care. 
-            NDIS Support Available & Fully Insured.
+            NDIS support available & fully insured.
           </p>
         </motion.div>
 
