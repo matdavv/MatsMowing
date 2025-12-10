@@ -12,7 +12,7 @@ export function Footer() {
           </div>
           
           <div className="flex flex-col gap-4">
-            <a href="tel:0431137119" className="flex items-center gap-3 text-gray-300 hover:text-white transition-colors">
+            <a href="tel:+61431137119" className="flex items-center gap-3 text-gray-300 hover:text-white transition-colors">
               <Phone className="w-5 h-5 text-secondary" />
               <span className="text-lg">0431 137 119</span>
             </a>
@@ -31,7 +31,7 @@ export function Footer() {
               <FaWhatsapp className="w-6 h-6 text-white" />
             </a>
             <a 
-              href="tel:0431137119" 
+              href="tel:+61431137119" 
               className="bg-secondary p-3 rounded-full hover:bg-yellow-400 transition-colors"
               aria-label="Call Us"
             >
