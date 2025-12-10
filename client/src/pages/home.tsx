@@ -1,5 +1,6 @@
 import { Hero } from "@/components/Hero";
 import { Services } from "@/components/Services";
+import { Locations } from "@/components/Locations";
 import { About } from "@/components/About";
 import { Reviews } from "@/components/Reviews";
 import { Footer } from "@/components/Footer";
@@ -10,6 +11,7 @@ export default function Home() {
     <main className="min-h-screen font-sans bg-background">
       <Hero />
       <Services />
+      <Locations />
       <About />
       <Reviews />
       <Footer />

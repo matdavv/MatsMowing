@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { Scissors, Shovel, Trees, Axe, Wrench, Sprout } from "lucide-react";
+import { Scissors, Shovel, Trees, Axe, Wrench, Sprout, Layers } from "lucide-react";
 
 const services = [
   {
@@ -11,6 +11,11 @@ const services = [
     icon: Sprout, // Using Sprout as a proxy for whipper snipping/detail work
     title: "Whipper Snipping",
     description: "Precise trimming along fences, walls, and garden beds."
+  },
+  {
+    icon: Layers,
+    title: "Hedging",
+    description: "Professional hedge trimming and shaping for neat, healthy growth."
   },
   {
     icon: Shovel,
