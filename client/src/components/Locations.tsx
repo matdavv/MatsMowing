@@ -34,7 +34,7 @@ export function Locations() {
               {town}
             </span>
           ))}
-          <span className="bg-secondary/10 px-4 py-2 rounded-lg text-primary-foreground border border-secondary/20 font-bold italic">
+          <span className="bg-secondary px-4 py-2 rounded-lg text-primary border border-secondary font-bold italic shadow-sm">
             & Surrounding Areas
           </span>
         </div>
